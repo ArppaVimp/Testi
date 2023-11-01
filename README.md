@@ -1,2 +1,2 @@
 # Testi
-Testaillaan repoja
+Harjoitellaan repositorin cloonaamista 
